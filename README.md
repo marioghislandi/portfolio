@@ -2,4 +2,4 @@
 Personal portfolio
 
 ## Tarefas
-O controle de tarefas será realiado através do GitHub
+The tasks managements will be done through GitHub projects 
